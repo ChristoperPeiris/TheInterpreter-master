@@ -1,0 +1,8 @@
+
+gsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÈËşî
+Csquid:S1068",Remove this unused "runStack" private field.(ğë³Û
+Fsquid:S1068"/Remove this unused "returnAddrs" private field.(ÈËşî
+Bsquid:S1068	"+Remove this unused "program" private field.(û×Û™
+Bsquid:S1068
+"&Remove this unused "pc" private field.(îì•ûÿÿÿÿ
+Csquid:S1068"-Remove this unused "isRunning" private field.(‡Õ°U
